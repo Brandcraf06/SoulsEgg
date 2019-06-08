@@ -9,9 +9,9 @@
     "Brandcraft06"
   ],
   "contact": {
-    "homepage": "",
-    "sources": "",
-	"issues": ""
+    "homepage": "https://minecraft.curseforge.com/projects/souls-egg",
+    "sources": "https://github.com/Brandcraf06/SoulsEgg",
+	"issues": "https://github.com/Brandcraf06/SoulsEgg/issues"
   },
 
   "license": "CC0-1.0",
