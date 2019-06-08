@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [ 
+	    {
+            "item": "minecraft:grass"
+        },
+		{
+            "item": "minecraft:grass"
+        },
+		{
+            "item": "minecraft:grass"
+        },
+		{
+            "tag": "minecraft:small_flowers"
+        },
+        {
+            "item": "soulsegg:souls_egg"
+        },
+		{
+            "tag": "minecraft:small_flowers"
+        },
+		{
+            "item": "minecraft:grass"
+        },
+		{
+            "item": "minecraft:grass"
+        },
+		{
+            "item": "minecraft:grass"
+        }
+    ],
+    "result": {
+        "item": "soulsegg:animals_souls_egg",
+        "count": 1
+    }
+}

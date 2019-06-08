@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "guardian_spawn_eggs",
+    "pattern": [
+        " # ",
+        "SES",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cod"
+        },
+        "S": {
+            "item": "minecraft:prismarine_shard"
+		},
+        "E": {
+            "item": "soulsegg:souls_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:guardian_spawn_egg",
+        "count": 1
+    }
+}

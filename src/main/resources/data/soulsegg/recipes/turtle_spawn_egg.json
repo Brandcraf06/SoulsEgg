@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "#E#",
+		"DDD"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:seagrass"
+		},
+        "S": {
+            "item": "minecraft:scute"
+		},
+        "D": {
+            "item": "minecraft:sand"
+        },
+        "E": {
+            "item": "soulsegg:animals_souls_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:turtle_spawn_egg",
+        "count": 1
+    }
+}

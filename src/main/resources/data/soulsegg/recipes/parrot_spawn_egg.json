@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "#E#",
+        "W W"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:feather"
+        },
+		"W": {
+            "tag": "soulsegg:parrot_wools"
+        },
+        "E": {
+            "item": "soulsegg:animals_souls_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:parrot_spawn_egg",
+        "count": 1
+    }
+}

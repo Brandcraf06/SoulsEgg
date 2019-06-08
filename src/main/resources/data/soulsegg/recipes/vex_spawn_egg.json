@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "SES",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_sword"
+        },
+        "S": {
+            "item": "minecraft:feather"
+		},
+        "E": {
+            "item": "soulsegg:souls_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:vex_spawn_egg",
+        "count": 1
+    }
+}

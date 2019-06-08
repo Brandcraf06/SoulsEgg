@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " Y ",
+        "#E#",
+		" G "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ender_pearl"
+        },
+        "G": {
+            "item": "minecraft:endermite_spawn_egg"
+		},
+        "Y": {
+            "item": "minecraft:ender_eye"
+		},
+        "E": {
+            "item": "soulsegg:advanced_souls_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:enderman_spawn_egg",
+        "count": 1
+    }
+}

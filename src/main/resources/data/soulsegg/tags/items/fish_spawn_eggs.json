@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cod_spawn_egg",
+    "minecraft:salmon_spawn_egg",
+    "minecraft:pufferfish_spawn_egg",
+    "minecraft:tropical_fish_spawn_egg"
+  ]
+}

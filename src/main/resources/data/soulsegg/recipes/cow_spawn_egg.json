@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cow_spawn_eggs",
+    "pattern": [
+        " # ",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "E": {
+            "item": "soulsegg:animals_souls_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:cow_spawn_egg",
+        "count": 1
+    }
+}

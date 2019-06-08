@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "skeleton_spawn_eggs",
+    "pattern": [
+        " # ",
+        "SES",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone"
+        },
+        "S": {
+            "item": "minecraft:snowball"
+			},
+        "E": {
+            "item": "minecraft:skeleton_spawn_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:stray_spawn_egg",
+        "count": 1
+    }
+}

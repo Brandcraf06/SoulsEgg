@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "soulsegg:boat_spawn_egg",
+        "count": 1
+    }
+}

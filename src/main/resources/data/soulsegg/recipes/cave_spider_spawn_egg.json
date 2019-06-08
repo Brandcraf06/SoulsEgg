@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "spider_spawn_eggs",
+    "pattern": [
+        " # ",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+		},
+        "E": {
+            "item": "minecraft:spider_spawn_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:cave_spider_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cow_spawn_eggs",
+    "pattern": [
+        "###",
+        "#E#",
+        "MMM"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:red_mushroom"
+		},
+        "E": {
+            "item": "minecraft:cow_spawn_egg"
+        },
+        "M": {
+            "item": "minecraft:mycelium"
+        }
+    },
+    "result": {
+        "item": "minecraft:mooshroom_spawn_egg",
+        "count": 1
+    }
+}

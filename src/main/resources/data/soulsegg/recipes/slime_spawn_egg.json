@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "slime_spawn_eggs",
+    "pattern": [
+        " # ",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:slime_ball"
+        },
+        "E": {
+            "item": "soulsegg:souls_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:slime_spawn_egg",
+        "count": 1
+    }
+}

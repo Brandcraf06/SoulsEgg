@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "CES",
+        "GGG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:kelp"
+        },
+		"G": {
+            "item": "minecraft:seagrass"
+        },
+		"C": {
+            "item": "minecraft:cod"
+        },
+		"S": {
+            "item": "minecraft:salmon"
+        },
+        "E": {
+            "tag": "soulsegg:fish_spawn_eggs"
+        }
+    },
+    "result": {
+        "item": "minecraft:dolphin_spawn_egg",
+        "count": 1
+    }
+}

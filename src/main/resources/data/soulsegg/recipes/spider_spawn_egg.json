@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "spider_spawn_eggs",
+    "pattern": [
+        " # ",
+        "SES",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "S": {
+            "item": "minecraft:spider_eye"
+			},
+        "E": {
+            "item": "soulsegg:souls_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:spider_spawn_egg",
+        "count": 1
+    }
+}

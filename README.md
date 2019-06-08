@@ -1,1 +1,1 @@
-Souls Egg is a mod who add an item usable for spawn eggs crafting
+Souls Egg is a mod that add an item usable for spawn eggs crafting

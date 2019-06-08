@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "E": {
+            "item": "soulsegg:souls_egg"
+        }
+    },
+    "result": {
+        "item": "soulsegg:advanced_souls_egg",
+        "count": 1
+    }
+}
