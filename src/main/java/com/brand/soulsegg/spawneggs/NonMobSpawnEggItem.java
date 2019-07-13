@@ -83,7 +83,8 @@ public class NonMobSpawnEggItem extends Item {
 	      }
 	   }
 
-	   public TypedActionResult<ItemStack> use(World world_1, PlayerEntity playerEntity_1, Hand hand_1) {
+	   @SuppressWarnings({ "unchecked", "rawtypes" })
+	public TypedActionResult<ItemStack> use(World world_1, PlayerEntity playerEntity_1, Hand hand_1) {
 	      ItemStack itemStack_1 = playerEntity_1.getStackInHand(hand_1);
 	      if (world_1.isClient) {
 	         return new TypedActionResult(ActionResult.PASS, itemStack_1);
@@ -128,7 +129,8 @@ public class NonMobSpawnEggItem extends Item {
 	      return Iterables.unmodifiableIterable(SPAWN_EGGS.values());
 	   }
 
-	   public EntityType<?> getEntityType(@Nullable CompoundTag compoundTag_1) {
+	   @SuppressWarnings("rawtypes")
+	public EntityType<?> getEntityType(@Nullable CompoundTag compoundTag_1) {
 	      if (compoundTag_1 != null && compoundTag_1.containsKey("EntityTag", 10)) {
 	         CompoundTag compoundTag_2 = compoundTag_1.getCompound("EntityTag");
 	         if (compoundTag_2.containsKey("id", 8)) {
