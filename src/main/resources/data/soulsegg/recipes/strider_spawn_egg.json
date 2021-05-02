@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ADB",
+        "CCC"
+    ],
+    "key": {
+		"A": {
+            "item": "soulsegg:nether_souls_egg" 
+        },
+		"B": {
+            "item": "soulsegg:passive_souls_egg"
+        },
+        "C": {
+            "item": "minecraft:warped_fungus"
+        },
+		"D": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:strider_spawn_egg",
+        "count": 1
+    }
+}

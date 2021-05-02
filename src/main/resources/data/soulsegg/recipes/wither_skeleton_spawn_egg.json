@@ -2,21 +2,21 @@
     "type": "minecraft:crafting_shaped",
     "group": "skeleton_spawn_eggs",
     "pattern": [
-        "#W#",
-        "CDC",
-        "#S#"
+        "#A#",
+        "BDB",
+        "#C#"
     ],
     "key": {
         "#": {
             "item": "minecraft:bone"
 		},
-        "W": {
+        "A": {
             "item": "minecraft:wither_skeleton_skull"
 		},
-        "C": {
+        "B": {
             "item": "minecraft:coal"
         },
-        "S": {
+        "C": {
             "item": "minecraft:skeleton_spawn_egg"
 		},
         "D": {

@@ -3,14 +3,17 @@
     "pattern": [
         " # ",
         "#E#",
-        " # "
+        "A#A"
     ],
     "key": {
         "#": {
             "item": "minecraft:snow_block"
         },
+		"A": {
+            "item": "minecraft:white_wool"
+        },
         "E": {
-            "item": "soulsegg:animals_souls_egg"
+            "item": "soulsegg:passive_souls_egg"
         }
     },
     "result": {

@@ -1,16 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
+        " # ",
         "#E#",
-        "###"
+        " # "
     ],
     "key": {
         "#": {
             "item": "minecraft:ghast_tear"
         },
         "E": {
-            "item": "soulsegg:souls_egg"
+            "item": "soulsegg:nether_souls_egg"
         }
     },
     "result": {

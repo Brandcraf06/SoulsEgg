@@ -6,10 +6,7 @@
             "item": "minecraft:pufferfish"
         },
         {
-            "item": "soulsegg:animals_souls_egg"
-        },
-		{
-            "item": "minecraft:bone_meal"
+            "item": "soulsegg:passive_souls_egg"
         }
     ],
     "result": {

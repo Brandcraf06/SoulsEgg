@@ -1,9 +1,10 @@
 {   
     "item.soulsegg.blank_egg": "Blank Egg",
 	"item.soulsegg.souls_egg": "Souls Egg",
+	"item.soulsegg.nether_souls_egg": "Nether Souls Egg",
 	"item.soulsegg.advanced_souls_egg": "Advanced Souls Egg",
 	"item.soulsegg.ultimate_souls_egg": "Ultimate Souls Egg",
-	"item.soulsegg.animals_souls_egg": "Animals Souls Egg",
+	"item.soulsegg.passive_souls_egg": "Passive Souls Egg",
 	"item.soulsegg.souls_powder": "Souls Powder",
 	"item.soulsegg.ender_skin": "Ender Skin",
 	"item.soulsegg.wither_spawn_egg": "Wither Spawn Egg",
@@ -11,6 +12,6 @@
 	"item.soulsegg.giant_spawn_egg": "Giant Spawn Egg",
 	"item.soulsegg.boat_spawn_egg": "Boat Spawn Egg",
 	
-	"itemGroup.soulsegg.souls_egg": "Souls Egg Mod"
+	"itemGroup.soulsegg.souls_egg": "Souls Egg"
 
 }

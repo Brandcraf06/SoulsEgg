@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "soulsegg",
-  "version": "1.0.1",
+  "version": "${version}",
    
   "name": "Souls Egg",
   "description": "A mod that add an item usable for spawn eggs crafting",
@@ -14,7 +14,7 @@
 	"issues": "https://github.com/Brandcraf06/SoulsEgg/issues"
   },
 
-  "license": "CC0-1.0",
+  "license": "GPLv3",
   "icon": "assets/soulsegg/icon.png",
 
   "environment": "*",
@@ -23,8 +23,11 @@
       "com.brand.soulsegg.SoulsEgg"
     ]
   },
-  "requires": {
-    "fabricloader": ">=0.4.0",
-    "fabric": "*"
+   "depends": {
+    "fabricloader": ">=0.8.8",
+    "fabric": "*",
+	"minecraft": "1.16.x"
+  },
+  "suggests": {
   }
 }

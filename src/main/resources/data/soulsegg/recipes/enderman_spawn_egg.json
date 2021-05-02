@@ -1,19 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " Y ",
-        "#E#",
-		" G "
+        " AB",
+        "AEA",
+        "BA "
     ],
     "key": {
-        "#": {
+        "A": {
             "item": "minecraft:ender_pearl"
-        },
-        "G": {
-            "item": "minecraft:endermite_spawn_egg"
 		},
-        "Y": {
-            "item": "minecraft:ender_eye"
+        "B": {
+            "item": "soulsegg:ender_skin"
 		},
         "E": {
             "item": "soulsegg:advanced_souls_egg"

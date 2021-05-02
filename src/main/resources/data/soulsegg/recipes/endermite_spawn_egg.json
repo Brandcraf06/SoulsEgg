@@ -1,14 +1,17 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " # ",
-        "#E#",
-        " # "
+        " AB",
+        "AEA",
+        "BA "
     ],
     "key": {
-        "#": {
+        "A": {
             "item": "minecraft:ender_pearl"
-        },
+		},
+        "B": {
+            "item": "soulsegg:ender_skin"
+		},
         "E": {
             "item": "minecraft:silverfish_spawn_egg"
         }

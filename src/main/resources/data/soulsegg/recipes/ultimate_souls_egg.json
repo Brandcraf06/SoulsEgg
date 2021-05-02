@@ -1,13 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
+        " # ",
         "#E#",
-        "###"
+        " # "
     ],
     "key": {
         "#": {
-            "item": "soulsegg:ender_skin"
+            "item": "minecraft:netherite_ingot"
         },
         "E": {
             "item": "soulsegg:advanced_souls_egg"

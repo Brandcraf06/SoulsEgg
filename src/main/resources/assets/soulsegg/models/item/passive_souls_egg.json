@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "soulsegg:item/passive_souls_egg"
+    }
+}

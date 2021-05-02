@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "group": "cow_spawn_eggs",
     "pattern": [
-        "###",
+        " # ",
         "#E#",
         "MMM"
     ],
