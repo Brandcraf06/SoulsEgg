@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [ 
+	    {
+            "item": "minecraft:tropical_fish_bucket"
+        },
+        {
+            "item": "soulsegg:passive_souls_egg"
+        },
+	    {
+            "item": "minecraft:moss_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:axolotl_spawn_egg",
+        "count": 1
+    }
+}
